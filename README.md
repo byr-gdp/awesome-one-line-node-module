@@ -1,4 +1,4 @@
-# one-line-node-module-collection
+# awesome-one-line-node-module
 
 1. [is-positive](https://github.com/kevva/is-positive)
 2. [is-negative](https://github.com/kevva/is-negative)
