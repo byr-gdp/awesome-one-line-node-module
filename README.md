@@ -6,3 +6,4 @@
 4. [user-home](https://github.com/sindresorhus/user-home)
 5. [left-pad](https://github.com/azer/left-pad)
 6. [node-cmdify](https://github.com/danielchatfield/node-cmdify)
+7. [isarray](https://github.com/juliangruber/isarray)
