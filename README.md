@@ -7,3 +7,4 @@
 5. [left-pad](https://github.com/azer/left-pad)
 6. [node-cmdify](https://github.com/danielchatfield/node-cmdify)
 7. [isarray](https://github.com/juliangruber/isarray)
+8. [five](https://github.com/jackdcrawford/five)
